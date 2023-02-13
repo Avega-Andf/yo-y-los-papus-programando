@@ -1,5 +1,6 @@
 # yo-y-los-papus-programando
 Trabajo de la u
+
 Se correra el siguiente codigo con el fin de cumplir el reto 2:
 GIT
 ![image](https://user-images.githubusercontent.com/124613814/218352663-9b96a455-af87-4c99-b41a-e9fb62365fce.png)
