@@ -35,6 +35,19 @@ A continuacion se nos abrira un cuadro parecido al CMD de Windows, en donde escr
 ![image](https://user-images.githubusercontent.com/124613814/218354473-4b944ad8-8b9f-4b1f-b07a-2b5bc30a6bcd.png)
 
 Y para finalizar le damos enter y se ejecutara el codigo que escribimos
+
 ![image](https://user-images.githubusercontent.com/124613814/218354535-d5f7acc8-9f56-4580-a3b0-c618b7c6d5cf.png)
 
 **Virtual Studio Code**
+Para ejecutar el codigo, dentro de la aplicacion de Virtual Studio code crearemos un nuevo archivo, podremos ponerle cualquier nombre pero este debe terminar con la extension ".py"
+
+![image](https://user-images.githubusercontent.com/124613814/218356213-d06f510c-37bb-4331-9365-e35fce8dcf61.png)
+![image](https://user-images.githubusercontent.com/124613814/218356159-e2c96e1f-faad-4388-a5b6-de969c72e2e4.png)
+
+Dentro de este nuevo archivo escribiremos el codigo que vamos a ejecutar, y para ejecutarlo en el terminal presionamos el triangulo que este en la esquina superior derecha.
+
+![image](https://user-images.githubusercontent.com/124613814/218356536-f0c296fb-482f-412b-a03e-290df575a011.png)
+
+![image](https://user-images.githubusercontent.com/124613814/218356593-c7aaff0c-a21d-484c-aa70-596f751ee9a4.png)
+
+Y con esto ya pudimos correr el codigo en estas diferentes aplicaciones.
