@@ -3,6 +3,7 @@ Trabajo de la u
 
 Se correra el siguiente codigo con el fin de cumplir el reto 2:
 ![image](https://user-images.githubusercontent.com/124613814/218352663-9b96a455-af87-4c99-b41a-e9fb62365fce.png)
+
 GIT
 Para poder correrlo en git comenzaremos abriendo un bloc de notas y escribiremos el codigo ahí:
 ![image](https://user-images.githubusercontent.com/124613814/218352799-3234f3d2-9031-4d7a-a72f-24a832a86621.png)
