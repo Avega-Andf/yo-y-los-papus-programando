@@ -1,5 +1,4 @@
-**# yo-y-los-papus-programando**
-Trabajo de la u
+**YO Y LOS PAPUS SALUDANDO AL MUNDO, TRABAJO DE LA U**
 
 Se correra el siguiente codigo con el fin de cumplir el reto 2:
 
@@ -7,10 +6,15 @@ Se correra el siguiente codigo con el fin de cumplir el reto 2:
 
 **Aplicaciones a usar:**
 
+
 -Bloc de notas
+
 -Notepad++
+
 -Git
+
 -Virtual Studio Code
+
 -Python
 
 **GIT**
