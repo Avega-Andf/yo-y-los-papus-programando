@@ -16,3 +16,4 @@ Esta acción tambien se puede realizar en "Notepad++" y se obtiene el mismo resu
 
 Ahora nos dirigiremos dentro de la carpeta en donde se encuentra el archivo, damos click derecho y presionamos la opcion "Git bash here"
 ![image](https://user-images.githubusercontent.com/124613814/218353395-d0c2bfff-777c-4ad9-ab2c-11a0581fcfb6.png)
+a
